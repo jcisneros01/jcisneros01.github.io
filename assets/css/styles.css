@@ -265,7 +265,7 @@ p {
     position: static;
     width: inherit;
     height: 100%;
-  min-height: 500px;
+    min-height: 500px;
   }
   .main-wrapper {
     padding: 30px;
